@@ -27,7 +27,7 @@ print("\n DataSet Information:")
 print(df.shape)
 
 #=================================
-# Check Column Names
+###############Check Column Names
 #=================================
 
 print("\n Columns: Names:")
