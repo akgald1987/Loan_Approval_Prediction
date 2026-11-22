@@ -18,13 +18,13 @@ df=pd.read_csv("loan_approval_dataset.csv")
 
 #Ruby
 #Abhishek
+#Abhishek/#Ruby
 
 # Display the first five records
 #================================
 print(df.head(5))
 
-# Check dataset size
-#==============================
+# Check dataset size#==============================
 print("\n DataSet Information:")
 print(df.shape)
 
